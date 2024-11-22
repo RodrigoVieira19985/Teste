@@ -1,0 +1,30 @@
+p{
+    width: 20%;
+    margin-left: 100px;
+    border: solid black 15px;
+    padding: 10px;
+    font-size: 24px;
+}
+
+p:hover{
+    background-color: blue;
+    color: azure;
+}
+
+a{
+    margin-left: 45px;
+    font-size: 24px;
+    text-decoration: none;
+    border: solid black 2px;
+    padding: 5px;
+    color: black;
+}
+
+a:hover{
+    background-color: black;
+    color: white;
+}
+p:active{
+    background-color: pink;
+}
+

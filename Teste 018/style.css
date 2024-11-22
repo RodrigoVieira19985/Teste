@@ -1,0 +1,69 @@
+header{
+    background-image: url(https://img.freepik.com/vetores-gratis/fundo-futurista-de-tecnologia-gradiente_23-2149122416.jpg);
+    width: 100%;
+    height: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    padding-top: 150px;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+}
+
+header h1{
+    color: white;
+}
+
+nav{
+    height: 5%;
+    width: 100%;
+    background-color: rgb(41, 41, 201);
+    margin-top: 5px;
+    padding-top: 25px;
+    box-sizing: content-box;
+}
+
+nav a{
+    color: white;
+    text-decoration: none;
+    margin-left: 30px;
+    font-size: 24px;
+}
+
+main{
+    background-color: blueviolet;
+    padding-top: 15px;
+}
+section{
+    background-color: white;
+    width: 70%;
+    height: 300px;
+    margin: 0px auto 15px;
+    padding: 20px;
+    box-sizing: content-box;
+    font-size: 24px;
+}
+
+section img{
+    width: 350px;
+    height: 280px;
+}
+
+section div{
+    vertical-align: 25%;
+    display: inline-block;
+    height: 280px;
+    width: 70%;
+}
+
+footer{
+    background-color: black;
+    height: 50px;
+    color: white;
+    text-align: center;
+}
+

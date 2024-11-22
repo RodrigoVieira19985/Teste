@@ -1,0 +1,141 @@
+body, p, h1{
+    margin: 0px;
+}
+
+header{
+    width: 100%;
+    height: 450px;
+    text-align: center;
+    padding-top: 30px;
+    background-image: url(imagens/fundo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+}
+
+header h1{
+    color: blue;
+    margin-bottom: 15px;
+}
+
+nav{
+    text-align: end;
+    padding: 20px 0px;
+    background-color: blue;
+    text-align: center;
+
+}
+
+nav a{
+    color: white;
+    padding: 10px 15px;
+    text-decoration: none;
+    margin-right: 30px;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+h1{
+    color: white;
+    text-shadow: 1px 1px 1px black;
+}
+
+#banner{
+
+    margin-top: 150px;
+    text-align: center;
+}
+
+figure{
+    margin: 15px 4%;
+    width: 15%;
+    display: inline-block;
+    text-align: center;
+}
+
+section{
+    margin: 15px 4%;
+    width: 15%;
+    height: 300px;
+    display: inline-block;
+    text-align: center;
+}
+
+main h1{
+    text-align: center;
+    color: blue;
+    font-size: 48px;
+}
+
+section img{
+    width: 150px;
+    height: 150px;
+    border-radius: 150px;
+}
+
+section p{
+    height: 50%;
+}
+
+article{
+    background-color: blue;
+    padding: 25px 0px;
+}
+
+div{
+    width: 70%;
+    margin: auto;
+}
+
+article p{
+    width: 50%;
+    font-size: 24px;
+    margin: 15px 30px;
+    display: inline-block;
+    background-color: white;
+    padding: 15px;
+}
+
+article h1{
+    font-size: 36px;
+    color: white;
+}
+
+article div{
+    text-align: center;
+    padding-top: 15px;
+}
+
+footer{
+    background-color: black;
+    width: 100%;
+    height: 250px;
+    text-align: center;
+    padding: 5px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 30px 0px;
+}
+
+footer img{
+    width: 50px;
+    height: 50px;
+    margin-left: 20px;
+    padding: 15px 0px;
+}
+
+footer .p1{
+    margin: auto;
+    width: 30%;
+    border-top: solid white 1px;
+    padding: 2px 100px;
+    padding-top: 15px;
+}
+
+nav a:hover{
+    
+}
+
+section:hover{
+    border: solid white 15px;
+
+}
